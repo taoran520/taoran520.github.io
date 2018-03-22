@@ -8,5 +8,5 @@ Hexo网站备份
 `npm install hexo-deployer-git`
 ###### 记得，不需要hexo init这条指令
 
-网站使用next主题
-执行：git clone https://github.com/theme-next/hexo-theme-next themes/next
+网站使用next主题:https://github.com/theme-next/hexo-theme-next
+手动更新：不支持直接使用git更新
